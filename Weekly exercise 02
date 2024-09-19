@@ -1,0 +1,16 @@
+elif age<=17:
+    print("Tidak Boleh MEmbuat SIM")
+if nilai>=90:
+  print("A")
+elif nilai>=80:
+  print("B+")
+elif nilai>=70:
+  print("B")
+elif nilai>=60:
+  print("C+")
+elif nilai>=50:
+  print("C")
+elif nilai>=40:
+  print("D")
+else:
+  print("E")
