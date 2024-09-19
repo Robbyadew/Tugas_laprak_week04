@@ -1,0 +1,10 @@
+age=19
+if age>=17:
+    print("Boleh Membuat SIM")
+elif age<=17:
+    print("Tidak Boleh MEmbuat SIM")
+age=19
+if age>=17:
+    print("Boleh Membuat SIM")
+elif age<=17:
+    print("Tidak Boleh MEmbuat SIM")
